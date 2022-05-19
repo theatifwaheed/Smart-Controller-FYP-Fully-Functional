@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "794299812139",
+    "firebase_url": "https://smart-controller-fyp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-controller-fyp",
+    "storage_bucket": "smart-controller-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794299812139:android:00a58554b188cad4311d6e",
+        "android_client_info": {
+          "package_name": "com.IqraAyeshaFYP.smartcontrollerfyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794299812139-pc04f7vctq09e63cf312hk921cqak7bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVbDKyOujDDwAQRiLJ8d48DGqQZYv_eF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794299812139-pc04f7vctq09e63cf312hk921cqak7bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794299812139:android:fb4383ac2a363e46311d6e",
+        "android_client_info": {
+          "package_name": "com.iafyp.smartcontrollerfyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794299812139-pc04f7vctq09e63cf312hk921cqak7bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVbDKyOujDDwAQRiLJ8d48DGqQZYv_eF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794299812139-pc04f7vctq09e63cf312hk921cqak7bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
